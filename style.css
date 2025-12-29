@@ -1,0 +1,14 @@
+ .header{
+            background-color:#000000;
+            color:white;
+            text-align:center;
+            padding:10px;
+            font-family:Georgia, sans-serif;
+        } 
+
+    .footer{
+            background-color:#000000;
+            color:white;
+            text-align:center;
+            padding:10px;
+        }
